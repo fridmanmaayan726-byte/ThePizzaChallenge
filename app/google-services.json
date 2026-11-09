@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "254018632053",
+    "project_id": "thepizzachallenge",
+    "storage_bucket": "thepizzachallenge.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254018632053:android:1afc57f9d971ac41ce3b3c",
+        "android_client_info": {
+          "package_name": "com.example.thepizzachallenge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvO6J4PtofxdEKPacGmrX_InY_XFUfDcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
